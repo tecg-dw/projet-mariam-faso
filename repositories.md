@@ -3,7 +3,7 @@
 ## 2286
 
 - [Bertrand Marie](https://github.com/MaryBtrd/mariam-faso)
-- Bouvier Olivier
+- [Bouvier Olivier](https://github.com/IDM4/mariam-faso)
 - [Closquet Eric](https://github.com/closquet/projet-mariam-faso)
 - [Delaunoy Félix](https://github.com/doflix/ProjectMariamFaso)
 - [Gava Lucas](https://github.com/Lugash/mariam-faso)
