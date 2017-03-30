@@ -1,3 +1,5 @@
+> Tous les repos ont été centralisés dans [cette archive](repositories.md).
+
 # Projet - Mariam Faso
 
 Le projet à client réel de l'année scolaire 2016-2017 consistera à créer le site web de Mariam Faso, ASBL de relations Nord-Sud.
