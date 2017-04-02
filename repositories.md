@@ -24,4 +24,4 @@
 - [Lieben Thomas](https://github.com/Shadow-Liberty/mariam-faso)
 - [Martinez Gabriel](https://github.com/gabrieletudes/projet-mariam-faso)
 - Merli Marvin
-- Müller Cédric
+- [Müller Cédric](https://github.com/MullerCedric/mariam-faso)
